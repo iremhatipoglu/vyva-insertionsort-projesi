@@ -34,7 +34,8 @@ Best case: O(n)
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 ```
-18 sayısı 4. adımda sıralanmaktadır bu sebeple ne en iyi ne de en kötü durumda yer alacaktır. Bu sebeple Avarage Case kapsamına girmektedir.
+18 sayısı 4. adımda sıralanmaktadır bu sebeple ne en iyi ne de en kötü durumda yer alacaktır. 
+Bu sebeple Avarage Case kapsamına girmektedir.
 ```
 
 ### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
